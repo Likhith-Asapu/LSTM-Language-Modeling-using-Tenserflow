@@ -16,10 +16,14 @@ Implementation of LSTM language model using Tensorflow in Python.
 The code has been tested on the following corpora:
 - EuroParl Corpus
 
-Perplexity scores for sentences present within these corpus can be found in the Perplexity_Scores folder.
+## File Structure 
+
+Perplexity scores for sentences present within EuroParl Corpus can be found in the Perplexity_Scores folder.
 
 - Perplexity_Scores/LM_train contains the perplexity scores for sentences used for training the model.
 - Perplexity_Scores/LM_test contains the perplexity scores for sentences used for testing the model.
+
+Model.ipynb contains the code for the LSTM language model.
 
 
 
