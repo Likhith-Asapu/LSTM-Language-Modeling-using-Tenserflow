@@ -7,7 +7,7 @@ Implementation of LSTM language model using Tensorflow in Python.
 
 ## Requirements
 
-* Python 2.7
+* Python
 * Tensorflow 0.8.0
 * Numpy
 
